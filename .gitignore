@@ -352,3 +352,5 @@ MigrationBackup/
 .ionide/
 
 .vscode
+appsettings.Development.json
+appsettings.Production.json
